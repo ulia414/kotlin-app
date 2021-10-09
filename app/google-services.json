@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737764980555",
+    "project_id": "book-id-d2295",
+    "storage_bucket": "book-id-d2295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737764980555:android:5af018aa62f60ce9971ace",
+        "android_client_info": {
+          "package_name": "com.ulia.ulia_id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737764980555-orgkj7n7jluicuksncbidkbko8u169hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpMwB2zaEHbVo123e81qJp8HU0fJGnWOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737764980555-orgkj7n7jluicuksncbidkbko8u169hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

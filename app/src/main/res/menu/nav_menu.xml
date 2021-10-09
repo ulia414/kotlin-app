@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="#666666">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_gold"
+        android:title="Home"
+        app:cnb_iconColor="@color/gold" />
+
+    <item
+        android:id="@+id/cari"
+        android:icon="@drawable/ic_search_gray"
+        android:title="Cari"
+        app:cnb_iconColor="@color/gold"/>
+
+    <item
+        android:id="@+id/upload"
+        android:icon="@drawable/ic_add_gold"
+        android:title="Unggah Buku"
+        app:cnb_iconColor="@color/gold"/>
+    <item
+        android:id="@+id/category"
+        android:icon="@drawable/ic_category_gold"
+        android:title="Kategori"
+        app:cnb_iconColor="@color/gold"/>
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/ic__person_gold"
+        android:title="Akun"
+        app:cnb_iconColor="@color/gold"/>
+
+
+</menu>
